@@ -1,0 +1,25 @@
+[
+    {
+        "victimId":"17c1f447-8ebc-44d2-a75b-86bb4975406b",
+        "firstName":"Jessica",
+        "lastName":"Brewer",
+        "age": 27,
+        "contactInfo":"864-598-09876",
+        "isMinor":"false",
+        "isAlive":"true",
+        "isInjured":"true",
+        "statement":"Strangled me when I took his muffin"
+    }
+    ,
+    {
+        "victimId":"c2a7bb5d-322e-4f4c-9697-2862dc7e90a5",
+        "firstName":"Michelle",
+        "lastName":"Olana",
+        "age": 28,
+        "contactInfo":"864-528-0376",
+        "isMinor":"false",
+        "isAlive":"true",
+        "isInjured":"true",
+        "statement":"Strangled me and stole my purse"
+    }
+]

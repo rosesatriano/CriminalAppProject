@@ -1,0 +1,24 @@
+[
+    {
+        "personOfInterestId": "a13277c4-5380-4ba8-bf01-72b1c535181a",
+        "firstName":"Bagel",
+        "lastName":"Boy",
+        "age": 30,
+        "contactInfo":"779-467-0923",
+        "isMinor":"false",
+        "statement":"I hung out with Muffin Man earlier and he seemed fine.",
+        "hasAlibi":"false",
+        "isSuspect":"false"
+    },
+    {
+        "personOfInterestId": "2134d1d0-5c9a-4ef2-9a0a-40a07b89e35e",
+        "firstName":"Da",
+        "lastName":"Baby",
+        "age": 30,
+        "contactInfo":"779-623-1234",
+        "isMinor":"false",
+        "statement":"I hung out with Paul Earlier Today.",
+        "hasAlibi":"false",
+        "isSuspect":"false"
+    }
+]
